@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 welcome to my profile</h1>
 <h3 align="center">A passionate full stack developer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications.</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/VertexDevLab/VertexDevLab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/VertexDevLab/VertexDevLab/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
 
 #### I love being able to use the best of technology to help people's lives.
