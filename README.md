@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 welcome to my profile</h1>
 <h3 align="center">A passionate full stack developer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications.</h3>
 
-![Snake animation](https://raw.githubusercontent.com/VertexDevLab/VertexDevLab/output/snake-dark.svg)
-![Snake animation](https://raw.githubusercontent.com/VertexDevLab/VertexDevLab/output/snake-light.svg)
 ---
 
 #### I love being able to use the best of technology to help people's lives.
